@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+sqlmodel
+configparse
+pydantic[email]
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+mongoengine
+pytest
